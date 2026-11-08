@@ -11,7 +11,7 @@ Projenin Hedefleri:Bu asistanin ilerleyen zamanlarda hangi özellikleri kazanaca
 
 
 
-1)Başka
+1)Basla
 
 2)saat=1 
 3)Döngüyü baslat
